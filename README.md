@@ -8,6 +8,7 @@
 * [Collect UI](http://collectui.com/)
 * [Johny vino™ - Dribbble](https://dribbble.com/johnyvino)
 * [UpLabs](https://www.uplabs.com/)
+* [Hey Designer](https://heydesigner.com/)
 
 ## Articles
 * [DEV](https://dev.to/)
