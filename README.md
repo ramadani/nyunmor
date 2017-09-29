@@ -4,6 +4,9 @@
 * [CodePath Android Cliffnotes](https://guides.codepath.com/android)
 * [Mindorks Blog](https://blog.mindorks.com/)
 
+## AI
+* [Wit.ai - Natural Language for Developers](https://wit.ai/)
+
 ## Design Inspiration
 * [Collect UI](http://collectui.com/)
 * [Johny vino™ - Dribbble](https://dribbble.com/johnyvino)
