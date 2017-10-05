@@ -14,6 +14,7 @@
 * [Johny vino™ - Dribbble](https://dribbble.com/johnyvino)
 * [UpLabs](https://www.uplabs.com/)
 * [Hey Designer](https://heydesigner.com/)
+* [Freebiesbug - Free Web Design Resources](https://freebiesbug.com/)
 
 ## Others
 * [DEV](https://dev.to/)
