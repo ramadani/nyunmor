@@ -23,3 +23,4 @@
 * [Freebie Supply - Startup Growth Marketing](http://growthsupply.com/free/)
 * [VisualAlgo](https://visualgo.net/en)
 * [devhints.io](https://devhints.io/)
+* [https://ui-avatars.com/](https://ui-avatars.com/)
