@@ -9,18 +9,22 @@
 * [Wit.ai - Natural Language for Developers](https://wit.ai/)
 * [Chatbot's Life](https://chatbotslife.com/)
 
-## Design Inspiration
+## Design
 * [Collect UI](http://collectui.com/)
 * [Johny vino™ - Dribbble](https://dribbble.com/johnyvino)
 * [UpLabs](https://www.uplabs.com/)
 * [Hey Designer](https://heydesigner.com/)
 * [Freebiesbug - Free Web Design Resources](https://freebiesbug.com/)
 
+## Startup
+* [Design Kit](http://www.designkit.org/)
+* [The Name App](http://thenameapp.com/)
+* [Startup Stock Photos](http://startupstockphotos.com/)
+
 ## Others
 * [DEV](https://dev.to/)
 * [Key Values](https://www.keyvalues.io/)
-* [Startup Stock Photos](http://startupstockphotos.com/)
 * [Freebie Supply - Startup Growth Marketing](http://growthsupply.com/free/)
 * [VisualAlgo](https://visualgo.net/en)
-* [devhints.io](https://devhints.io/)
+* [Devhints](https://devhints.io/)
 * [Ui-avatars](https://ui-avatars.com/)
