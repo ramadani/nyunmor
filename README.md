@@ -18,6 +18,7 @@
 
 ## Startup
 * [Design Kit](http://www.designkit.org/)
+* [Open Design Kit](http://opendesignkit.org/)
 * [The Name App](http://thenameapp.com/)
 * [Startup Stock Photos](http://startupstockphotos.com/)
 
