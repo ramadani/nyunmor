@@ -20,6 +20,8 @@
 * [Design Kit](http://www.designkit.org/)
 * [Open Design Kit](http://opendesignkit.org/)
 * [The Name App](http://thenameapp.com/)
+* [BetaList. Discover tomorrow's startups, today.](https://betalist.com/)
+* [Product Hunt. Discover your next favorite thing](https://www.producthunt.com/)
 * [Startup Stock Photos](http://startupstockphotos.com/)
 
 ## Others
