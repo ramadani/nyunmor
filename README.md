@@ -15,6 +15,7 @@
 * [UpLabs](https://www.uplabs.com/)
 * [Hey Designer](https://heydesigner.com/)
 * [Freebiesbug - Free Web Design Resources](https://freebiesbug.com/)
+* [Flaticon](https://www.flaticon.com/)
 
 ## Startup
 * [Design Kit](http://www.designkit.org/)
