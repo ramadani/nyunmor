@@ -18,6 +18,7 @@
 * [Flaticon](https://www.flaticon.com/)
 
 ## Startup
+* [Design Sprint Kit](https://designsprintkit.withgoogle.com/)
 * [Design Kit](http://www.designkit.org/)
 * [Open Design Kit](http://opendesignkit.org/)
 * [The Name App](http://thenameapp.com/)
