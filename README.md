@@ -16,6 +16,7 @@
 * [Hey Designer](https://heydesigner.com/)
 * [Freebiesbug - Free Web Design Resources](https://freebiesbug.com/)
 * [Flaticon](https://www.flaticon.com/)
+* [Noun Project - Icons for Everything](https://thenounproject.com/)
 
 ## Startup
 * [Design Sprint Kit](https://designsprintkit.withgoogle.com/)
