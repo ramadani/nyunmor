@@ -18,6 +18,9 @@
 * [Flaticon](https://www.flaticon.com/)
 * [Noun Project - Icons for Everything](https://thenounproject.com/)
 
+## Software Development
+* [SonarLint - Fix issues before they exist!](https://www.sonarlint.org/)
+
 ## Startup
 * [Design Sprint Kit](https://designsprintkit.withgoogle.com/)
 * [Design Kit](http://www.designkit.org/)
