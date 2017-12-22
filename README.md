@@ -17,6 +17,7 @@
 * [Freebiesbug - Free Web Design Resources](https://freebiesbug.com/)
 * [Flaticon](https://www.flaticon.com/)
 * [Noun Project - Icons for Everything](https://thenounproject.com/)
+* [Free Stock Photos: High-Res Images for Commercial Use](https://burst.shopify.com/)
 
 ## Software Development
 * [SonarLint - Fix issues before they exist!](https://www.sonarlint.org/)
