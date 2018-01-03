@@ -5,9 +5,13 @@
 * [Mindorks Blog](https://blog.mindorks.com/)
 
 ## AI
-* [API.AI](https://api.ai/)
+* [Dialogflow](https://dialogflow.com/)
 * [Wit.ai - Natural Language for Developers](https://wit.ai/)
 * [Chatbot's Life](https://chatbotslife.com/)
+
+## PWA
+* [The Web App Manifest](https://developers.google.com/web/fundamentals/web-app-manifest/)
+* [Web App Manifest Generator](https://app-manifest.firebaseapp.com/)
 
 ## Design
 * [Collect UI](http://collectui.com/)
