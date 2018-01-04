@@ -13,6 +13,9 @@
 * [The Web App Manifest](https://developers.google.com/web/fundamentals/web-app-manifest/)
 * [Web App Manifest Generator](https://app-manifest.firebaseapp.com/)
 
+## Frontend
+* [REM Calculator](https://offroadcode.com/rem-calculator/)
+
 ## Design
 * [Collect UI](http://collectui.com/)
 * [Johny vino™ - Dribbble](https://dribbble.com/johnyvino)
