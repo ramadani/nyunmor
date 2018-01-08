@@ -28,6 +28,7 @@
 
 ## Software Development
 * [SonarLint - Fix issues before they exist!](https://www.sonarlint.org/)
+* [Design Patterns - Refactoring Guru](https://refactoring.guru/design-patterns)
 
 ## Startup
 * [Design Sprint Kit](https://designsprintkit.withgoogle.com/)
