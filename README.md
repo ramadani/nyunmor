@@ -4,10 +4,11 @@
 * [CodePath Android Cliffnotes](https://guides.codepath.com/android)
 * [Mindorks Blog](https://blog.mindorks.com/)
 
-## AI
+## AI, Machine Learning, Data Science, etc
 * [Dialogflow](https://dialogflow.com/)
 * [Wit.ai - Natural Language for Developers](https://wit.ai/)
 * [Chatbot's Life](https://chatbotslife.com/)
+* [Data Science Central](https://www.datasciencecentral.com/)
 
 ## PWA
 * [The Web App Manifest](https://developers.google.com/web/fundamentals/web-app-manifest/)
