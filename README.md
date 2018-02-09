@@ -49,3 +49,4 @@
 * [VisualAlgo](https://visualgo.net/en)
 * [Devhints](https://devhints.io/)
 * [Ui-avatars](https://ui-avatars.com/)
+* [HTTP Cats](https://http.cat/)
