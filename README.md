@@ -33,6 +33,7 @@
 * [Design Patterns - Refactoring Guru](https://refactoring.guru/design-patterns)
 
 ## Startup
+* [The Crunchbase Unicorn Leaderboards](https://techcrunch.com/unicorn-leaderboard/)
 * [Design Sprint Kit](https://designsprintkit.withgoogle.com/)
 * [Design Kit](http://www.designkit.org/)
 * [Open Design Kit](http://opendesignkit.org/)
