@@ -9,6 +9,7 @@
 * [Wit.ai - Natural Language for Developers](https://wit.ai/)
 * [Chatbot's Life](https://chatbotslife.com/)
 * [Data Science Central](https://www.datasciencecentral.com/)
+* [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
 ## PWA
 * [The Web App Manifest](https://developers.google.com/web/fundamentals/web-app-manifest/)
