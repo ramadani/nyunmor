@@ -3,6 +3,8 @@
 ## Android
 * [CodePath Android Cliffnotes](https://guides.codepath.com/android)
 * [Mindorks Blog](https://blog.mindorks.com/)
+* [Codelabs](https://codelabs.developers.google.com/)
+* [ConstraintLayout - Codelabs](https://codelabs.developers.google.com/codelabs/constraint-layout/#0)
 
 ## AI, Machine Learning, Data Science, etc
 * [Dialogflow](https://dialogflow.com/)
