@@ -5,6 +5,7 @@
 * [Mindorks Blog](https://blog.mindorks.com/)
 * [Codelabs](https://codelabs.developers.google.com/)
 * [ConstraintLayout - Codelabs](https://codelabs.developers.google.com/codelabs/constraint-layout/#0)
+* [Android Secure Coding Standard](https://wiki.sei.cmu.edu/confluence/display/android/Android+Secure+Coding+Standard)
 
 ## AI, Machine Learning, Data Science, etc
 * [Dialogflow](https://dialogflow.com/)
