@@ -46,6 +46,7 @@
 * [BetaList. Discover tomorrow's startups, today.](https://betalist.com/)
 * [Product Hunt. Discover your next favorite thing](https://www.producthunt.com/)
 * [Startup Stock Photos](http://startupstockphotos.com/)
+* [namelix - Business Name Generator](https://namelix.com/)
 
 ## Others
 * [DEV](https://dev.to/)
