@@ -48,6 +48,10 @@
 * [Startup Stock Photos](http://startupstockphotos.com/)
 * [namelix - Business Name Generator](https://namelix.com/)
 
+## Islamic
+* [Al Quran Cloud](https://alquran.cloud/)
+* [Prayer Times, Adhan Player & Islamic Calendar](https://aladhan.com/)
+
 ## Others
 * [DEV](https://dev.to/)
 * [Key Values](https://www.keyvalues.io/)
