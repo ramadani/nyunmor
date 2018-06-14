@@ -22,6 +22,9 @@
 * [REM Calculator](https://offroadcode.com/rem-calculator/)
 * [unDraw - MIT licensed illustrations](https://undraw.co/)
 
+## Programming Languages
+* [An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
+
 ## Design
 * [Collect UI](http://collectui.com/)
 * [Johny vino™ - Dribbble](https://dribbble.com/johnyvino)
