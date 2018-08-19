@@ -27,6 +27,9 @@
 * [An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
 * [Go by Example](https://gobyexample.com/)
 
+## Databases
+* [Use the Index, Luke](https://use-the-index-luke.com/)
+
 ## Design
 * [Collect UI](http://collectui.com/)
 * [Johny vino™ - Dribbble](https://dribbble.com/johnyvino)
