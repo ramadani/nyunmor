@@ -27,6 +27,7 @@
 * [Effective Kotlin](https://legacy.gitbook.com/book/narenkmanoharan/effective-kotlin/details)
 * [An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
 * [Go by Example](https://gobyexample.com/)
+* [Go Web Examples](https://gowebexamples.com/)
 * [Programming.Guide](https://programming.guide/index.html)
 * [golangprograms](http://www.golangprograms.com/)
 
