@@ -45,6 +45,8 @@
 * [Beautiful Free Images & Pictures | Unsplash](https://unsplash.com/)
 * [Free Stock Photos: High-Res Images for Commercial Use](https://burst.shopify.com/)
 * [Free stock photos · Pexels](https://www.pexels.com/)
+* [ColorSpace](https://mycolor.space/)
+* [CSS Gradient](https://cssgradient.io/)
 
 ## Software Development
 * [SonarLint - Fix issues before they exist!](https://www.sonarlint.org/)
