@@ -67,6 +67,9 @@
 * [Startup Stock Photos](http://startupstockphotos.com/)
 * [namelix - Business Name Generator](https://namelix.com/)
 
+## Startup - Engineering Blog
+* [Uber Engineering](https://eng.uber.com/)
+
 ## Islamic
 * [Al Quran Cloud](https://alquran.cloud/)
 * [Prayer Times, Adhan Player & Islamic Calendar](https://aladhan.com/)
