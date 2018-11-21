@@ -49,6 +49,7 @@
 * [ColorSpace](https://mycolor.space/)
 * [CSS Gradient](https://cssgradient.io/)
 * [PhotoScissors Online](https://online.photoscissors.com/)
+* [Squarespace](https://www.squarespace.com/)
 
 ## Software Development
 * [SonarLint - Fix issues before they exist!](https://www.sonarlint.org/)
