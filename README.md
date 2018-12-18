@@ -85,3 +85,4 @@
 * [Devhints](https://devhints.io/)
 * [Ui-avatars](https://ui-avatars.com/)
 * [HTTP Cats](https://http.cat/)
+* [HTTP Status Codes](https://httpstatuses.com/)
