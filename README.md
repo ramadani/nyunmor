@@ -58,6 +58,7 @@
 * [Design Patterns - Refactoring Guru](https://refactoring.guru/design-patterns)
 * [GoalKicker.com - Free Programming Books](http://books.goalkicker.com/)
 * [Microservice Architecture](https://microservices.io/)
+* [JSON:API - A specification for building APIs in JSON](https://jsonapi.org/)
 
 ## Startup
 * [The Crunchbase Unicorn Leaderboards](https://techcrunch.com/unicorn-leaderboard/)
