@@ -52,6 +52,7 @@
 * [CSS Gradient](https://cssgradient.io/)
 * [PhotoScissors Online](https://online.photoscissors.com/)
 * [Squarespace](https://www.squarespace.com/)
+* [icons8 - FREE DESIGN RESOURCES AND SOFTWARE](https://icons8.com/)
 
 ## Software Development
 * [SonarLint - Fix issues before they exist!](https://www.sonarlint.org/)
